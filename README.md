@@ -1,7 +1,6 @@
-# Project 1 for course CS-433 Machine Learning 
-
+# Higgs Boson Machine Learning Challenge
 	.
-	|-- README.md
+	|-- README.md (here)
 	|-- data (Please put train.csv and test.csv here)
 	|-- src
 	|   -- correction_rate.py
@@ -18,7 +17,7 @@
 	|   -- exploring data analysis.ipynb
 
 ## Introduction:
-In Project 1, machine learning methods were applied on the CERN dataset.
+In this Project, machine learning methods were applied on the CERN dataset.
 To make sure the codes can work properly, please put the 'train.csv' and 'test.csv' files under the folder 'data'.
 
 ## Process of buliding models and getting prediction results:
